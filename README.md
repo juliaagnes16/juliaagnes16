@@ -89,3 +89,8 @@
 </picture>
 
 ###
+
+![Snake animation](https://github.com/juliaagnes16/juliaagnes16/blob/output/github-contribution-grid-snake.svg)
+
+###
+
