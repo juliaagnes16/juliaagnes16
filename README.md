@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Julia Agnes from Jakarta, Indonesia<br><br>- 🔭 I’m working as Java Developer<br>- 📚 I'm currently learning Golang, and React Js<br>- ⚡ In my free time I like to cook</p>
+<p align="left">I'm Julia Agnes from Jakarta, Indonesia<br><br>- 🔭 I’m working as Java Developer<br>- 📚 I'm currently deep learning on Java, and Started to learn another programming language.<br>- ⚡ In my free time I like to cook</p>
 
 ###
 
